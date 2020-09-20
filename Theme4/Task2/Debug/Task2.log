@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme4\Task2\Task2.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme4\Task2\Task2.cpp(4,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task2.vcxproj -> C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme4\Debug\Task2.exe

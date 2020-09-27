@@ -1,6 +1,7 @@
-#include <iostream>, <cmath>;
+#include <iostream>
+#include <cmath>
 using namespace std;
-void main() {
+int main() {
 	float x1, y1, x2, y2;
 	cout << "x1=";
 	cin >> x1;
@@ -11,4 +12,5 @@ void main() {
 	cout << "y2=";
 	cin >> y2;
 	cout << "R=" << sqrtf((x2 - x1) * (x2 - x1) + (y1 - y2) * (y1 - y2));
+	return 0;
 }

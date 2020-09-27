@@ -1,0 +1,4 @@
+﻿  task3.cpp
+C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme5\task3\task3.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme5\task3\task3.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  task3.vcxproj -> C:\Users\dagge\source\repos\DaggeNRoll\LabsTrifonov\Theme5\Debug\task3.exe

@@ -9,7 +9,7 @@ int main() {
 	cin >> b;
 	cout << "C=";
 	cin >> c;
-	ac = fabsf(a - c);
+	ac = fabsf(a - c);//S=|x1-x2|
 	bc = fabsf(b - c);
 	cout << "AC=" << ac << endl;
 	cout << "BC=" << bc << endl;

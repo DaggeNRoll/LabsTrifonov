@@ -12,5 +12,6 @@ int main() {
 	cout << "y2=";
 	cin >> y2;
 	cout << "R=" << sqrtf((x2 - x1) * (x2 - x1) + (y1 - y2) * (y1 - y2));
+	//R=sqrt((x1-x2)^2+(y1-y2)^2)
 	return 0;
 }

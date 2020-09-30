@@ -11,6 +11,8 @@ int main(){
 	cin >> x2;
 	cout << "y2=";
 	cin >> y2;
-	a
-
+	a = fabsf(x1 - x2);//S=|x1-x2|
+	b = fabsf(y1 - y2);
+	cout << "P=" << 2 * (a + b);
+	cout << "S=" << a * b;
 }

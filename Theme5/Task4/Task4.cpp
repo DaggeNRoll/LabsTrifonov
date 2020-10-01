@@ -13,6 +13,6 @@ int main(){
 	cin >> y2;
 	a = fabsf(x1 - x2);//S=|x1-x2|
 	b = fabsf(y1 - y2);
-	cout << "P=" << 2 * (a + b);
+	cout << "P=" << 2 * (a + b)<<endl;
 	cout << "S=" << a * b;
 }

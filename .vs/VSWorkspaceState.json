@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Theme5",
+    "\\Theme5\\Task1",
+    "\\Theme5\\Task2",
+    "\\Theme5\\task3",
+    "\\Theme5\\Task4",
+    "\\Theme5\\Task5"
   ],
-  "SelectedNode": "\\Rabotai!!!",
+  "SelectedNode": "\\Theme5\\Task1\\Task1.cpp",
   "PreviewInSolutionExplorer": false
 }

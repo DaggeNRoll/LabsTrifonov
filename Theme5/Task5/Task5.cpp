@@ -16,7 +16,7 @@ int main() {
 	cout << "y3=";
 	cin >> y3;
 	a = sqrtf((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
-	//R=sqrt((x1-x2)^2 + (y1-y2)^2)
+	//R=sqrt((x1-x2)^2 + (y1-y2)^2)  
 	b = sqrtf((x2 - x3) * (x2 - x3) + (y2 - y3) * (y2 - y3));
 	c = sqrtf((x1 - x3) * (x1 - x3) + (y1 - y3) * (y1 - y3));
 	cout << "P=" << a + b + c << endl;

@@ -8,7 +8,7 @@ int main() {
 
 	cout << "A = ";
 	cin >> a;
-	cout << "B  ";
+	cout << "B = ";
 	cin >> b;
 
 	div = a / b;
